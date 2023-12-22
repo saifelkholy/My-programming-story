@@ -1,0 +1,79 @@
+
+.main{  
+text-align: center;
+margin-top: 260px;
+}
+.title{
+    text-align: center;
+}
+div{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: white;
+}
+span{
+    color: aqua;
+    font-weight: bold;
+}
+.ChapterII_words{
+margin-top: 50px;
+}
+.basics_of_HTML{
+    text-align: left;
+    
+}
+.part1{
+    text-align: center;
+    
+    
+}
+.start_chapterII{
+    text-align: center;   
+}
+
+.ChapterI{
+    text-align: center;
+
+}
+.ChapterII_words{
+    text-align: center;   
+}
+.ChapterIII{
+    text-align: center;   
+    margin-bottom: 50px;  
+    margin-top: 200px;
+}
+a{
+color: aqua;    
+margin-left: 2.5px;
+}
+.ChapterIII_words{
+text-align: center;   
+}
+.ChapterIV{
+    text-align: center;   
+    margin-bottom: 50px;  
+    margin-top: 200px;
+}
+.span_tasks{
+margin-left: 5px;
+}
+.ChapterIV_words{
+text-align: center;  
+}
+.ChapterIIV{
+    text-align: center;   
+    margin-bottom: 50px;  
+    margin-top: 200px;
+}
+.ChapterIIV_words{
+    text-align: center;  
+    }
+    .nav_bar{
+        margin-left: 20px;
+        
+    }
+    .links_nav_bar{
+    margin-left: 8px;    
+    }
+
