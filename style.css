@@ -1,24 +1,79 @@
+
+.main{  
+text-align: center;
+margin-top: 260px;
+}
+.title{
+    text-align: center;
+}
 div{
-background-color: orange;    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: white;
+}
+span{
+    color: aqua;
+    font-weight: bold;
+}
+.ChapterII_words{
+margin-top: 50px;
+}
+.basics_of_HTML{
+    text-align: left;
+    
+}
+.part1{
+    text-align: center;
+    
+    
+}
+.start_chapterII{
+    text-align: center;   
 }
 
-button{
-background-color: orange; 
-border: 4px solid orange;
-padding: 10px 15px;  
-}
+.ChapterI{
+    text-align: center;
 
+}
+.ChapterII_words{
+    text-align: center;   
+}
+.ChapterIII{
+    text-align: center;   
+    margin-bottom: 50px;  
+    margin-top: 200px;
+}
 a{
-text-decoration: none;    
-color: white; 
-font-family:  ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+color: aqua;    
+margin-left: 2.5px;
 }
-
-body{
-background-color: orange;    
+.ChapterIII_words{
+text-align: center;   
 }
-
-h1{
-font-family:  ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+.ChapterIV{
+    text-align: center;   
+    margin-bottom: 50px;  
+    margin-top: 200px;
 }
+.span_tasks{
+margin-left: 5px;
+}
+.ChapterIV_words{
+text-align: center;  
+}
+.ChapterIIV{
+    text-align: center;   
+    margin-bottom: 50px;  
+    margin-top: 200px;
+}
+.ChapterIIV_words{
+    text-align: center;  
+    }
+    .nav_bar{
+        margin-left: 20px;
+        
+    }
+    .links_nav_bar{
+    margin-left: 8px;    
+    }
 
